@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /datenschutz.php 
+
+Sitemap: https://www.dildo-welt.info/sitemap.xml
