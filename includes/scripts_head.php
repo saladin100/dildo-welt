@@ -10,8 +10,3 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="css/custom-navbar.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-
-
-
-
- 
