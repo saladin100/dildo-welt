@@ -1,3 +1,7 @@
+	
+	
+<?php include("fixed-bottom-bar.php")?>
+
 <!-- Footer -->
 <footer id="myfooter" class="page-footer font-small stylish-color-dark pt-4 mt-4">
   <div class="container">

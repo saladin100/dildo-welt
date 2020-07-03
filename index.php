@@ -33,7 +33,6 @@
 							<h4 class="card-title h2 my-2 py-2"><i class="fas fa-angle-double-right" style="color:#ffb246"> </i> Dildo Welt <i class="fas fa-angle-double-left" style="color:#ffb246"> </i> </h4>
 							<p class="mb-4 pb-2 px-md-5 my-4 mx-md-5">Dein Ratgeber mit vielen Informationen und Tipps rund um das Thema Dildo, Vibrator & Co. </p>
 							<a href="#next" class="btn sunny-morning-gradient"> Jetzt stöbern</a>
-
 						</div>
 					</div>
 				</div>
@@ -729,6 +728,9 @@
 					<p>Wir haben euch auf unserer Seite <a href="/kaufen">Dildo Kaufen</a> übrigens einen Vergleich der bekanntesten Sextoy Shops zusammengestellt.</p>
 
 				</div>
+				
+				
+
 				<div class="col-lg-3 border-left sticky-stopper">
 					<div id="scrollspy" class="sticky">
 						<!-- Inhaltsverezichnis Start-->
@@ -798,6 +800,7 @@
 	<!--Main layout-->
 
 	<!--Footer-->
+	
 	<?php include("includes/fixed/footer.php") ?>
 	<?php include("includes/promo_banner.php") ?>
 
