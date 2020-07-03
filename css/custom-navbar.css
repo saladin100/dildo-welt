@@ -161,6 +161,7 @@
 
     .dropdown-menu.mega-menu .sub-menu ul {
         display: none;
+        background-color:#eee;
     }
 
     .dropdown-menu.mega-menu ul li {
@@ -213,6 +214,7 @@
     .dropdown-menu.mega-menu .row {
         margin-right: 0px !important;
         margin-left: 0px !important;
+        background-color: #f6f6f6;
     }
 
     .dropdown-menu.mega-menu .col-lg-3 {
