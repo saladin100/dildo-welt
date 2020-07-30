@@ -66,7 +66,7 @@
                         Anwendung einige Herausforderungen zu meistern gibt. Zum Beispiel möchte man den Penis ja
                         von seiner Schokoladenseite und in der besten Form abbilden. Die Erektion über den ganze
                         Gußprozess hinweg stabil zu halten, bedarf schon einer Ausdauer oder guter Fantasie.
-                        Einen Dildo selber zu machen ist deswegen garnicht so einfach.
+                        Einen Dildo selber zu machen ist deswegen gar nicht so einfach.
                     </p>
 
                     <blockquote class="blockquote bq-primary">
@@ -81,7 +81,7 @@
                     <hr class="my-3">
 
                     <h2 class="h2-responsive">Reinigung und Pflege</h2>
-                    <p> Cloneboy sets um einen Dildo selber zu bauen basieren in der Regel auf Silikonmaterial. Folglich gelten die normalen
+                    <p> Cloneboy Sets um einen Dildo selber zu bauen basieren in der Regel auf Silikonmaterial. Folglich gelten die normalen
                         <a href="/dildo-pflege-anwendung"> Reinigungs- und Sicherheitshinweise</a>
                         für Silikondildos.
                     </p>

@@ -55,7 +55,7 @@
           </p>
 
           <p>
-            Vorraussetzung dafür ist natürlich, dass es sich dabei um ein Modell mit Funkfernbedienung handelt. Im Gegensatz dazu
+            Voraussetzung dafür ist natürlich, dass es sich dabei um ein Modell mit Funkfernbedienung handelt. Im Gegensatz dazu
             besitzen manche Modelle eine Fernbedienung mit Kabel, die im Alltag natürlich weniger praktisch ist.
           </p>
 

@@ -84,10 +84,10 @@
           <h2 class="h2-responsive">Anwendung - was gibt es zu beachten?</h2>
 
           <p>
-            Bei der Anwendung von G-Punkt Vibratoren gibt es nichts bestimmtes zu beachten. Man sollte nur wissen,
-            dass jede Frau anders ist. Manche reagieren auf die Stimulation der Zone garnicht oder nur unter
+            Bei der Anwendung von G-Punkt Vibratoren gibt es nichts Bestimmtes zu beachten. Man sollte nur wissen,
+            dass jede Frau anders ist. Manche reagieren auf die Stimulation der Zone gar nicht oder nur unter
             ganz bestimmten Umständen. Falls es bei euch also nicht (immer) besonders erregend anfühlt und
-            euch in eine Ekstasen katapultiert, macht euch also keine Sorgen - das ist ganz normal.
+            euch in eine Ekstase katapultiert, macht euch also keine Sorgen - das ist ganz normal.
           </p>
 
           <h3 class="h2-responsive"> Wo ist der G Punkt eigentlich, und wie kommt ein G Punkt Vibrator dahin?</h3>

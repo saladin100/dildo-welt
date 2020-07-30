@@ -323,11 +323,11 @@
 
                     <p>
                         Dildo bestellt, Dildo angekommen - und jetzt? Wo ist die Wegbeschreibung zu meinem Orgasmus?
-                        Wer gedacht hat, dass Dildo- oder Vibratorenhersteller ihren produkten eine Anleitung zur Benutzung
+                        Wer gedacht hat, dass Dildo- oder Vibratorenhersteller ihren Produkten eine Anleitung zur Benutzung
                         beilegen hat sich geirrt.
                     </p>
                     <p>
-                        Wie auch? Jeder Mensch, jeder Körper ist anders und funkioniert anders. Es gilt sich und seinen
+                        Wie auch? Jeder Mensch, jeder Körper ist anders und funktioniert anders. Es gilt sich und seinen
                         Körper zu entdecken und Sextoys sind dazu lediglich ein weiteres Mittel zu diesem Zweck. Folglich
                         gibt es kein Geheimrezept oder Anleitung zum Orgasmus. Jede*r muss seinen/ ihren eigenen Weg finden.
                     </p>
@@ -346,7 +346,7 @@
                     <ul>
                         <li> <strong>Bewusst Zeit nehmen:</strong> Heutzutage muss alles, überall schnell gehen.
                             Hektik ist aber nur in den allerseltensten Fällen ein Turn-On. Warum nicht also bewusst ein
-                            Date mit sich selbst ausmachen und sich bewusst zeit nehmen? Egal ob für den Spaß alleine
+                            Date mit sich selbst ausmachen und sich bewusst Zeit nehmen? Egal ob für den Spaß alleine
                             oder zu mehrt.
                         </li>
                         <li> <strong>Sich in Stimmung bringen:</strong> Zimmer abschließen, Kerze anzünden, Licht dimmen,
@@ -412,14 +412,14 @@
                             befindet gilt als eines der intensivsten Lustzentren. Mit speziell gebogenen Dildos sowie Dildos
                             aus festem Material lässt sich der G-Spot simulieren indem beim Ein- und Ausführen an der
                             oberen Scheidenwand entlang fährst. Tipps um den G-Punkt zu finden sowie Sexstellungen,
-                            die diesen besonder stimulieren findet ihr
+                            die diesen besonders stimulieren findet ihr
                             übrigens <a href="https://www.gofeminin.de/leidenschaft/der-g-punkt-s795419.html#d24460095-p14" target="_blank"> hier</a>. Und natürlich sei darauf hingewiesen, dass zahlreiche <a href="/g-punkt-dildo"> G-Punkt Dildos</a> speziell dafür designed sind, den G-Punkt zu stimulieren.
                         </li>
                         <li> <strong>Kurz und flach:</strong> Es muss nicht immer ganz in die Tiefe gehen. Der Großteil
                             der empfindlichen Nervenzellen befinden sich im ersten 1/3 der Vagina. Nur weil ein Dildo lang
                             ist, muss man ihn also nicht komplett einführen, sondern kann weiter außen spielen.
                         </li>
-                        <li> <strong>Drehen:</strong> Vorallem mit Dildos, die eine Oberflächenstruktur wie
+                        <li> <strong>Drehen:</strong> Vor allem mit Dildos, die eine Oberflächenstruktur wie
                             zum Beispiel Hubbel haben, lässt sich auch Spaß haben indem man den Dildo ein wenig in die Vagina
                             einführt und dann einfach dreht.
                         </li>
@@ -429,13 +429,13 @@
                         </li>
                         <li> <strong>Mit Temperatur spielen:</strong> Vor allem Dildos aus Glas und aus Metall eignen sich
                             natürlich auch super zum Experimentieren mit Temperaturspielen. Aber Vorsicht: Um zu schauen, dass
-                            die Temepratur auch körperverträglich ist, am besten erstmal am Unterarm testen.
+                            die Temperatur auch körperverträglich ist, am besten erstmal am Unterarm testen.
                         </li>
                     </ul>
 
                     <p>
-                        Natürlich sind dies nur einige Ideen! Ausprobieren und Entedecken müsst ihr selbst -
-                        also los gehts &#128521;. Viel Spaß!
+                        Natürlich sind dies nur einige Ideen! Ausprobieren und Entdecken müsst ihr selbst -
+                        also los geht's &#128521;. Viel Spaß!
                     </p>
 
 

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="author" content="Tania Nowak">
-  <meta name="description" content="Du suchst einen Vibrator? Hier findest du Vor- und Nachteile von klassichen Vibratoren, Produktvergleiche sowie Tipps zur Reinigung & Pflege.">
+  <meta name="description" content="Du suchst einen Vibrator? Hier findest du Vor- und Nachteile von klassischen Vibratoren, Produktvergleiche sowie Tipps zur Reinigung & Pflege.">
   <meta name="keywords" content="Vibrator">
 
 
@@ -33,15 +33,15 @@
         <div class="col-md-12 col-lg-8">
           <h1 class="h1-responsive">Klassischer Vibrator</h1>
           <p>
-            Es muss nicht immer etwas ausgefallenes sein - auch der klassiche Vibrator ist ein unglaublicher Lustbringer
+            Es muss nicht immer etwas ausgefallenes sein - auch der klassische Vibrator ist ein unglaublicher Lustbringer
             und gehört zum Standardrepertoir in der Sextoy Schublade.
           </p>
 
           <p>
-            Der klassiche Vibrator gleicht mit seiner Phallusform im Erscheinungsbild einem Dildo. Genau wie der
-            Dildo wird der Vibrator vagina eingeführt (kann aber natürlich auch für die äußere Stimulation an anderen
+            Der klassische Vibrator gleicht mit seiner Phallusform im Erscheinungsbild einem Dildo. Genau wie der
+            Dildo wird der Vibrator Vagina eingeführt (kann aber natürlich auch für die äußere Stimulation an anderen
             erogenen Zonen verwendet werden). Da der Vibrator im Vergleich
-            zu seinem stillen Kollegen aber vibrieren kann, erfreut er sich bei vielen Nutzerninnen größerer Beliebtheit.
+            zu seinem stillen Kollegen aber vibrieren kann, erfreut er sich bei vielen Nutzerinnen größerer Beliebtheit.
             Tatsächlich sind sich viele des
             <a href="/arten">Unterschiedes zwischen Dildo und Vibrator </a>
             nicht bewusst und suchen fälschlicherweise nach einem Dildo, obwohl sie sich einen Vibrator wünschen.
@@ -70,7 +70,7 @@
               Schaft? Lass dich einfach von dem leiten, was dich anmacht
             </li>
             <li><strong>Vibrationsart:</strong> Je mehr Vibrationsarten dein Vibrator auf Lager hat, desto abwechslungsreicher kannst
-              du deine Stimulation gestalten. Einige Modele verfügen auch über stufenlose Vibrationsprogramme. Falls du zusätslich zur Vibration
+              du deine Stimulation gestalten. Einige Modelle verfügen auch über stufenlose Vibrationsprogramme. Falls du zusätzlich zur Vibration
               auch eine Stoßfunktionen möchtest, keine Sorge - einige Modelle haben auch diese inklusive.
             </li>
             <li><strong>Wasserdicht:</strong> Du möchtest deinen Begleiter auch mit unter die Dusche oder die Badewanne nehmen?
@@ -86,7 +86,7 @@
           <h2 class="h2-responsive">Anwendung - was gibt es zu beachten?</h2>
 
           <p>
-            Klassiche Vibratoren sind hauptsächlich für die vaginale Penetration gedacht. Das heißt aber nicht, dass die Anwendung darauf beschränkt ist.
+            klassische Vibratoren sind hauptsächlich für die vaginale Penetration gedacht. Das heißt aber nicht, dass die Anwendung darauf beschränkt ist.
           </p>
 
           <p>
@@ -149,7 +149,7 @@
             <div class="row">
 
               <div class="col-sm-12 col-md-12 col-lg-6">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'Elise'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Flelo-elise-2-vibrator-schwarz%252F%5D%5D">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'Elise'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Flelo-elise-2-vibrator-schwarz%252F%5D%5D">
                   <img class="mb-4 img-fluid lazyload" data-src="/img/elise-vibrator.jpg" alt="elise-vibrator-lelo" title="elise-vibrator-lelo"></a>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-6">
@@ -180,7 +180,7 @@
 
             <div class="row mt-3">
               <div class="col-sm-12">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'Elise'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Flelo-elise-2-vibrator-schwarz%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'Elise'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Flelo-elise-2-vibrator-schwarz%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
                   </i> Jetzt bei Amorelie.de ansehen</a>
               </div>
             </div>
@@ -195,7 +195,7 @@
             <div class="row">
 
               <div class="col-sm-12 col-md-12 col-lg-6">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'cool'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fmiss-v-mr-cool-pretty-violet%252F%5D%5D">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'cool'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fmiss-v-mr-cool-pretty-violet%252F%5D%5D">
                   <img class="mb-4 img-fluid lazyload" data-src="/img/vibrator-cool.jpg" alt="vibrator-cool" title="vibrator-cool"></a>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-6">
@@ -226,7 +226,7 @@
 
             <div class="row mt-3">
               <div class="col-sm-12">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'cool'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fmiss-v-mr-cool-pretty-violet%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'cool'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fmiss-v-mr-cool-pretty-violet%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
                   </i> Jetzt bei Amorelie.de ansehen</a>
               </div>
             </div>
@@ -240,7 +240,7 @@
             <div class="row">
 
               <div class="col-sm-12 col-md-12 col-lg-6">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'getaway'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fnomi-tang-getaway-black%252F%5D%5D">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'getaway'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fnomi-tang-getaway-black%252F%5D%5D">
                   <img class="mb-4 img-fluid lazyload" data-src="/img/vibrator-getaway.jpg" alt="vibrator-getaway" title="vibrator-getaway"></a>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-6">
@@ -271,7 +271,7 @@
 
             <div class="row mt-3">
               <div class="col-sm-12">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'getaway'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fnomi-tang-getaway-black%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'getaway'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=13871&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.amorelie.de%252Fnomi-tang-getaway-black%252F%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye">
                   </i> Jetzt bei Amorelie.de ansehen</a>
               </div>
             </div>
@@ -285,7 +285,7 @@
             <div class="row">
 
               <div class="col-sm-12 col-md-12 col-lg-6">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'slim-line'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fseven-creations-slim-line-silber-19-cm-882623di%5D%5D">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'slim-line'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fseven-creations-slim-line-silber-19-cm-882623di%5D%5D">
                   <img class="mb-4 img-fluid lazyload" data-src="/img/vibrator-slim-line.jpg" alt="vibrator-slim-line" title="vibrator-slim-line"></a>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-6">
@@ -314,7 +314,7 @@
 
             <div class="row mt-3">
               <div class="col-sm-12">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'slim-line'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fseven-creations-slim-line-silber-19-cm-882623di%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye"></i> Jetzt bei Eis.de ansehen</a>
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'slim-line'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fseven-creations-slim-line-silber-19-cm-882623di%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye"></i> Jetzt bei Eis.de ansehen</a>
               </div>
             </div>
           </div>
@@ -329,7 +329,7 @@
             <div class="row">
 
               <div class="col-sm-12 col-md-12 col-lg-6">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'vibrator-spiralstruktur'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fsilikon-vibrator-mit-spiralstruktur-19-cm-004690to%5D%5D">
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'vibrator-spiralstruktur'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fsilikon-vibrator-mit-spiralstruktur-19-cm-004690to%5D%5D">
                   <img class="mb-4 img-fluid lazyload" data-src="/img/vibrator-spiralstruktur.jpg" alt="vibrator-spiralstruktur" title="vibrator-spiralstruktur"></a>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-6">
@@ -358,7 +358,7 @@
 
             <div class="row mt-3">
               <div class="col-sm-12">
-                <a onclick="gtag('event', 'click', {'event_category': 'Klassicher-Dildo','event_label':'vibrator-spiralstruktur'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fsilikon-vibrator-mit-spiralstruktur-19-cm-004690to%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye"></i> Jetzt bei Eis.de ansehen</a>
+                <a onclick="gtag('event', 'click', {'event_category': 'klassischer-Dildo','event_label':'vibrator-spiralstruktur'});" target="_blank" href="https://www.awin1.com/cread.php?awinmid=14702&awinaffid=663005&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.eis.de%252Fp%252Fsilikon-vibrator-mit-spiralstruktur-19-cm-004690to%5D%5D" class="btn btn-success btn-block"><i class="fas fa-eye"></i> Jetzt bei Eis.de ansehen</a>
               </div>
             </div>
           </div>

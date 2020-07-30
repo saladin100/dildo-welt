@@ -3,7 +3,7 @@
 
 
 <head>
-    
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -180,7 +180,7 @@
 
                     <p>
                         Den richtigen Dildo auszuwählen ist mitnichten ein einfaches Unterfangen, nicht
-                        zuletzt weil die Produkpalette mehrere Tausend Dildos umfasst, die in Form, Farbe, Funktion,
+                        zuletzt weil die Produktpalette mehrere Tausend Dildos umfasst, die in Form, Farbe, Funktion,
                         Größe und Material variieren.
                     </p>
 
@@ -213,14 +213,14 @@
                     </p>
                     <p>
                         Der beste Tipp hierbei ist auf vorige sexuelle Erfahrung zurückzugreifen. Falls du
-                        bereits Geschlechtsvekehr mit einem/r Partner*in hattest, kannst du das als Referenz
+                        bereits Geschlechtsverkehr mit einem/r Partner*in hattest, kannst du das als Referenz
                         heranziehen. Der Penis welchen Partners hat sich gut angefühlt und war von der Größe her perfekt?
                         Oder vielleicht besitzt du bereits ein Sexspielzeug oder hast dich mit anderen Gegenständen
                         masturbiert, die du als Vergleich heranziehen kannst.
                     </p>
 
                     <p>
-                        Du hast noch garkeine Erfahrung mit Penetration und dementsprechend keine Vergleichswerte?
+                        Du hast noch gar keine Erfahrung mit Penetration und dementsprechend keine Vergleichswerte?
                         Das ist natürlich auch nicht schlimm! Zunächst kannst du deinen Körper erstmal
                         mit den eigenen Händen erkunden (und auch damit lässt sich bereits eine Menge Spaß haben).
                     </p>
@@ -230,10 +230,10 @@
                         Kondom überziehen und so Größen ausprobieren. Du kannst z.B. eine Karotte auf eine Größe
                         schnitzen, von der du glaubst dass sie passt, mit einem Kondom überziehen und vorsichtig testen,
                         ob die Größe hinkommt. Dann ab ans Lineal bzw. eine Schnur und Länge und Durchmesser messen!
-                        So kannst zumindest eine ungefähre Idee für das richtige Maß entwickeln.
+                        So kannst du zumindest eine ungefähre Idee für das richtige Maß entwickeln.
                     </p>
 
-                    <p> Vorsicht bei der analen Penetration! Viele Gegenstände eignen sich nich zur analen Penetration, da sie
+                    <p> Vorsicht bei der analen Penetration! Viele Gegenstände eignen sich nicht zur analen Penetration, da sie
                         komplett im Rektum versinken, zerbrechen oder zerdrückt werden können und somit Verletzungsgefahr besteht. Generell gilt es natürlich
                         behutsam vorzugehen, das Kondom nicht zu vergessen und im Zweifelsfall erstmal kleiner anzufangen!
                     </p>
@@ -377,11 +377,11 @@
                     </div>
 
                     <p>
-                        Erstens sollte beim Kauf ganz einfach auf das Material geachtet werden. Produkte aus medzinischem Silikon,
+                        Erstens sollte beim Kauf ganz einfach auf das Material geachtet werden. Produkte aus medizinischem Silikon,
                         Glas, Metall, oder Keramik sind gesundheitlich unbedenklich. Zweitens, raten wir dazu den Dildo
                         bei dedizierten (online-) Sexshops statt auf Amazon zu kaufen. Auf Amazon kann jeder ohne große Hürden
                         Produkte verkaufen, so dass man leider auch viel Rammsch findet.
-                        Die Produkpaletten von Sexshops bestehen hingegen aus erlesenen Anbietern, was einen natürlichen Schutz bietet.
+                        Die Produktpaletten von Sexshops bestehen hingegen aus erlesenen Anbietern, was einen natürlichen Schutz bietet.
                     </p>
 
                     <p>
@@ -393,7 +393,7 @@
 
                     <p>
                         <strong> Abgesehen vom Gesundheitsaspekt gilt bei der Material: auswählen was gefällt!</strong> Silikon ist
-                        schön weich, biegsam und glatt. Im Gegensatz dazu sind Dildos aus aus Stahl, Glas oder Keramik
+                        schön weich, biegsam und glatt. Im Gegensatz dazu sind Dildos aus Stahl, Glas oder Keramik
                         fest und lassen sich nicht biegen. Mehr Infos zu Dildomaterialien findet ihr <a href="/dildo-pflege-anwendung" > hier </a>.
                     </p>
 
@@ -557,11 +557,11 @@
                                 man muss sich auch entscheiden <i>wo</i> man ihn kauft. Selbst wenn man sich dazu entschieden hat
                                 den Dildo online zu kaufen gibt es noch eine große Auswahl an Shops, zwischen denen man sich entscheiden muss.</p>
                             <p>
-                                Da die Sextoyindustrie ein riesiger Markt ist, konkurieren zahlreiche Unternehmen darum
+                                Da die Sextoyindustrie ein riesiger Markt ist, konkurrieren zahlreiche Unternehmen darum
                                 ein möglichst großes Stück vom Kuchen abzubekommen.
                             </p>
                             <p>
-                                Die verschiedenen Shops unterscheiden sich zum Teil erheblich in ihrem Auftreten, Produkpalette und Preiskategorie, Zielgruppe und Unternehmenskultur. Während noch vor einigen Jahren Männer den Hauptumsatz in Sexshops generierten, haben sich die Shops heute hauptsächlich die Frauen als Zielgruppe erschlossen.</p>
+                                Die verschiedenen Shops unterscheiden sich zum Teil erheblich in ihrem Auftreten, Produktpalette und Preiskategorie, Zielgruppe und Unternehmenskultur. Während noch vor einigen Jahren Männer den Hauptumsatz in Sexshops generierten, haben sich die Shops heute hauptsächlich die Frauen als Zielgruppe erschlossen.</p>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-5">
                             <figure>
@@ -707,7 +707,7 @@
                     </p>
 
                     <p>
-                        < Update per 01.06.2020: In den letzten Monaten hat das Beate Uhse Unternehmen einigen Tumult durchlebt und wurde Ende letzten Jahres von einem niederändischen Investor gekauft, der plant die Marke wieder neu aufzubauen>
+                        < Update per 01.06.2020: In den letzten Monaten hat das Beate Uhse Unternehmen einigen Tumult durchlebt und wurde Ende letzten Jahres von einem niederländischen Investor gekauft, der plant die Marke wieder neu aufzubauen.>
                     </p>
 
                     <h3 class="h3-responsive"> 6. Amazon </h3>
@@ -722,7 +722,7 @@
                         <strong> Grund</strong>: Im Gegensatz zu den obigen Onlineshops ist Amazon nur ein Marktplatz.
                         Das heißt, dass dort prinzipiell jede x-beliebige Person Produkte verkaufen kann.
                         Natürlich gibt es viele seriöse Anbieter auf Amazon (z.B. die Hersteller der Sextoy selbst).
-                        Allerdings gibt es mindestens genausoviele dubiose Verkäufer, deren Produkte und Qualität mehr
+                        Allerdings gibt es mindestens genau so viele dubiose Verkäufer, deren Produkte und Qualität mehr
                         als fragwürdig ist.
                     </p>
 
@@ -751,7 +751,7 @@
                     <blockquote class="blockquote bq-primary">
                         <p class="bq-title">Fazit:</p>
                         Auch wenn es mittlerweile fast eine Gewohnheit ist alles bei Amazon zu kaufen,
-                        beim Thema Sextoy villeicht einfach mal nicht auf Amazon sondern in einem deidzierten Online Sexshop
+                        beim Thema Sextoy vielleicht einfach mal nicht auf Amazon sondern in einem dedizierten Online Sexshop
                         einkaufen ;).
                     </blockquote>
 
@@ -761,7 +761,7 @@
 
                     <p>
                         Wie bereits oben erwähnt braucht man sich keine Sorgen zu machen, dass der Postbote, der/ die Mitbewohner*in
-                        oder ein Familienmitglied vom Sextoy Kauf erfährt. Alle Online Sops bieten extra
+                        oder ein Familienmitglied vom Sextoy Kauf erfährt. Alle Online Shops bieten extra
                         diskreten Versand an.
                     </p>
 

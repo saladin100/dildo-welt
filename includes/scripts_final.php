@@ -1,18 +1,18 @@
 <!-- JQuery -->
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <!-- Bootstrap tooltips -->
-<script src="js/popper.min.js"></script>
+<script src="js/popper.min.js" defer></script>
 <!-- Bootstrap core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js" defer></script>
 <!-- MDB core JavaScript -->
 <script src="js/mdb.min.js"></script>
 <!-- Initializations -->
-<script src="js/lazy.js"></script>
-<script src="js/custom-script.js"></script>
-<script src="js/custom-navbar.js"></script>
+<script src="js/lazy.js" defer></script>
+<script src="js/custom-script.js" defer> </script>
+<script src="js/custom-navbar.js" defer></script>
 
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js" defer></script>
 <script>
   window.addEventListener("load", function() {
     window.cookieconsent.initialise({
@@ -31,11 +31,12 @@
         "message": "Diese Webseite nutzt Cookies, um bestmögliche Funktionalität bieten zu können.",
         "dismiss": "Verstanden",
         "link": "Mehr erfahren",
-        "href": "https://www.dildo-welt.info/datenschutz.php"
+        "href": "datenschutz"
       }
     })
   });
 </script>
+
 
 
 <script>
@@ -49,19 +50,6 @@
   }
   window.onload = init;
 </script>
-
-
-
-<!-- jQuery -->
-<!-- Bootstrap tooltips -->
-<script type="text/javascript" src="js/popper.min.js"></script>
-<!-- Bootstrap core JavaScript -->
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<!-- MDB core JavaScript -->
-<script type="text/javascript" src="js/mdb.min.js"></script>
-<!-- Your custom scripts (optional) -->
-<script type="text/javascript"></script>
-
 
 </body>
 

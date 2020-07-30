@@ -70,9 +70,9 @@
                     <h2 class="h2-responsive">Anwendung - was gibt es zu beachten?</h2>
 
                     <p>
-                        Bei der Anwendung von G-Punkt Dildos gibt es nichts bestimmtes zu beachten. Man sollte nur wissen,
-                        dass jede Frau anders ist. Manche reagieren auf die Stimulation der Zone garnicht oder nur unter
-                        ganz besitmmten Umständen. Falls es bei euch also nicht (immer) besonders erregend anfühlt und
+                        Bei der Anwendung von G-Punkt Dildos gibt es nichts Bestimmtes zu beachten. Man sollte nur wissen,
+                        dass jede Frau anders ist. Manche reagieren auf die Stimulation der Zone gar nicht oder nur unter
+                        ganz bestimmten Umständen. Falls es bei euch also nicht (immer) besonders erregend anfühlt und
                         euch in neue Ekstasen katapultiert, macht euch also keine Sorgen - das ist ganz normal.
                     </p>
 

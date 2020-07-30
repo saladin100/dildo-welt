@@ -174,7 +174,7 @@ ul.benefits li:before {
 ul.benefits {
     list-style: none;
     padding: 0;
-    margin-top: 12px;
+    margin-top:12px;
 }
 
 ul.benefits li {
@@ -194,7 +194,7 @@ ul.disbenefits li:before {
 ul.disbenefits {
     list-style: none;
     padding: 0;
-    margin-top: 12px;
+    margin-top:12px;
 }
 
 ul.disbenefits li {
@@ -240,20 +240,7 @@ main a {
     }
 }
 
-.list-group-item-action {
-    color: #495057 !important;
+.list-group-item-action{
+    color:#495057 !important;
 }
-
-
-
-.btn-outline-primary {
-    color: #ffb246 !important;
-    border-color: #ffb246 !important;
-}
-
-.badge {
-    background-color: #ffb246 !important;
-    font-size: 25px;
-}
-
 

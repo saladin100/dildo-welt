@@ -1,8 +1,20 @@
-
-
-
 <style>
-    
+    @media (min-width: 576px) {
+        .fixed-bottom-bar {
+            background-color: #42B3A2;
+            color: #fff;
+            height: 52px;
+            padding: 2px 10px;
+            text-align: center;
+            font-size: 16px
+        }
+
+        body {
+            margin-bottom: 40px;
+        }
+    }
+
+    @media (max-width: 575px) {
         .fixed-bottom-bar {
             background-color: #42B3A2;
             color: #fff;
@@ -16,33 +28,26 @@
             margin-bottom: 40px;
         }
 
-        .close-icon {
-            cursor: pointer;
-            position: absolute;
-            top: -14px;
-            right: 10px;
-            font-size: 30px;
-            color: #000;
-        }
-    
-</style>
-
-<script>
-    function minimizeBar() {
-        $('#promo-bar').removeClass('slideInUp delay-1s');
-        $('#promo-bar').addClass('slideOutDown ');
-        document.body.style.marginBottom = "0px";
 
     }
-</script>
+</style>
 
-<div class="fixed-bottom fixed-bottom-bar slideInUp animated delay-1s" id="promo-bar">
-    
-    <div>
-        <i class="fas fa-arrow-alt-circle-right"></i> 10% Rabatt bei <strong>venize</strong>
-        <button style="padding:8px 8px 6px 8px;font-size:16px" type="button" class="btn btn-md btn-primary waves-effect waves-light" data-target="#modalCoupon" data-toggle="modal" > <span style="padding-right:2px;">😧</span> WHAAAT?
-</button>
+
+
+<div style="cursor: pointer" onclick="gtag('event', 'click', {'event_category': 'Promo Banner','event_label':'Open Modal'});" class="fixed-bottom fixed-bottom-bar slideInUp animated delay-5s" 
+id="promo-bar" style="font-family: LinotteRegular, Arial, sans-serif !important;" data-target="#modalDiscount" data-toggle="modal">
+
+    <div class="d-none d-sm-block">
+        <span style="padding-right:2px;">👉</span> <strong>WHAAAT?</strong> 10% Rabatt bei <strong>venize</strong>
+        <button style="padding:8px 33px 6px 33px;font-size:16px" type="button" class="btn btn-md  btn-primary waves-effect waves-light" > Ja, will ich!
+        </button>
+    </div>
+
+    <div class="d-block d-sm-none">
+    <span style="padding-right:4px;">🎁</span> Lust auf ein Geschenk?
+    <button style="padding:8px 20px 6px 20px;font-size:16px" type="button" class="btn btn-md  btn-primary waves-effect waves-light" > Na klar!
+        </button>
     </div>
 </div>
 
-<?php include("promo_banner.php")?>
+<?php include("promo_banner.php") ?>

@@ -42,7 +42,7 @@
                     <h2 class="h2-responsive"> Formen und Funktion </h2>
 
                     <p>
-                        Wie der name schon sagt haben Dildos mit Saugnapf einen saugstarken
+                        Wie der Name schon sagt haben Dildos mit Saugnapf einen saugstarken
                         Saugnapf am unteren Ende. Damit lässt er sich an glatten Oberflächen befestigen.
                     </p>
 

@@ -65,7 +65,7 @@
                     <ul>
                         <li><strong> Analdildos:</strong>
                             <p>
-                                Herkömmliche Analdildos gleichen in der Form normalen Dildos, haben aber überlicherweise
+                                Herkömmliche Analdildos gleichen in der Form normalen Dildos, haben aber üblicherweise
                                 eine spezielle ergonomische Form, die das Einführen in den Anus erleichtert.</p>
                         </li>
 
@@ -111,7 +111,7 @@
                     <h2 class="h2-responsive">Anwendung - was gibt es zu beachten?</h2>
 
                     <p>
-                        Diejeinigen, die noch keine Erfahrung mit Analsex haben werden es am Anfang wahrscheinlich
+                        Diejenigen, die noch keine Erfahrung mit Analsex haben werden es am Anfang wahrscheinlich
                         als schwierig empfinden sich überhaupt etwas in den Anus einzuführen, da unser Schließmuskel
                         natürlicherweise darauf trainiert ist Sachen im Körper zu lassen.
                     </p>
@@ -120,7 +120,7 @@
                         Folglich ist es bei der Anwendung von Analdildos doppelt wichtig sich Zeit zu nehmen
                         und zu entspannen. Außerdem ist wie auch sonst Gleitgel dein bester Freund und wie immer
                         gilt es behutsam vorzugehen. Zusätzlich kann der Anus mit Analplugs langsam gedehnt werden,
-                        so dass man sich langsam rantasten kann.
+                        so dass man sich langsam ran tasten kann.
                     </p>
 
                     <blockquote class="blockquote bq-primary">

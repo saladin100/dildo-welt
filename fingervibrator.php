@@ -35,7 +35,7 @@
                     <p>
                         Fingervibratoren sind sehr kleine Vibratoren und sind dazu gedacht die Hand bei Stimulation von
                         sich selbst oder seiner*m
-                        Parter*in zu intensivieren und sind somit eher als kleine Helfer zur Ergänzung gedacht. Das
+                        Partner*in zu intensivieren und sind somit eher als kleine Helfer zur Ergänzung gedacht. Das
                         heißt aber natürlich nicht, dass
                         man mit diesen Minivibratoren nicht eine Menge Spaß haben kann. Ganz im Gegenteil!
                     </p>
@@ -48,7 +48,7 @@
                     <p>
                         Fingervibratoren werden an der Hand getragen um diese bei der Stimulation, also zum Beispiel
                         beim Streicheln, bei einer Massage oder
-                        einen Handjob, um snafte Vibration zu ergänzen. Somit eignen sich diese Vibratoren zur
+                        einen Handjob, um sanfte Vibration zu ergänzen. Somit eignen sich diese Vibratoren zur
                         Stimulation der äußeren erogenen Zonen.
                     </p>
 
@@ -73,7 +73,7 @@
                         Bei der Auswahl des Fingervibrators sollte man darauf achten ob das jeweilige Modell über nur
                         eine oder
                         mehrere Vibrationsstufen besitzt und sich dementsprechend auswählen was man sich wünscht.
-                        Was alle Modelle gemein haben ist, dass sie klein und damit exrem handlich sind und somit
+                        Was alle Modelle gemein haben ist, dass sie klein und damit extrem handlich sind und somit
                         in jede Hosentasche passen. Entsprechend ihrer Größe sin die Motoren ziemlich leise und können
                         so auch ganz diskret eingesetzt
                         werden.
@@ -92,7 +92,7 @@
                     </p>
 
                     <p>
-                        Ganz besonders freuen sich naürlich die erogenen Zonen über die sanfe Stimulation der
+                        Ganz besonders freuen sich natürlich die erogenen Zonen über die sanfte Stimulation der
                         Minivibratoren. Also gerne ab damit gen
                         Nippel, Klitoris, Eichel, Hoden oder auch Damm. Je nach Modellform können die Vibratoren auch
                         vaginal eingeführt werden und somit
@@ -105,7 +105,7 @@
                             Handesinnere richten, so dass man
                             die Stimulation direkt spürt. Ein Geheimtipp ist jedoch den Vibrator auf die
                             <i>Fingerrückseite</i> zu richten. So wird die Vibration
-                            über den Finger indirekt weitergegeben, so dass man nich auf den direkten Haut-zu-Haut
+                            über den Finger indirekt weitergegeben, so dass man nicht auf den direkten Haut-zu-Haut
                             Kontakt verzichten muss.
                         </p>
                     </blockquote>
@@ -285,7 +285,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
 
                     <!--Fingervibrator Eis -->
                     <hr class="my-3">
@@ -330,7 +330,7 @@
                         </div>
                     </div>
 
-                    
+
                     <!--Fukuoku -->
                     <hr class="my-3">
                     <div class="produktbox z-depth-1 p-3 mb-3">

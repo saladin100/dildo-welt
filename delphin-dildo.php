@@ -84,7 +84,7 @@
 
           <p>
 
-            Beim Double End Delphin Dildo zum Beispiel, handelt es sich um einen extralangen Paardildo, der von zwei Personen gleichzeitig zur Penetration verwendetn
+            Beim Double End Delphin Dildo zum Beispiel, handelt es sich um einen extralangen Paardildo, der von zwei Personen gleichzeitig zur Penetration verwendet
             werden kann. Beide Enden ähneln dabei einen Delphin.
           </p>
 
@@ -114,7 +114,7 @@
 
           <h2 class="h2-responsive">Reinigung und Pflege</h2>
           <p>
-            Die meisten Modelle sind aus hautfreundlichem Silikon oder Kunsstoff gefertigt, die sich genau wie andere Toys aus diesen Materialien relativ leicht reinigen lassen.
+            Die meisten Modelle sind aus hautfreundlichem Silikon oder Kunststoff gefertigt, die sich genau wie andere Toys aus diesen Materialien relativ leicht reinigen lassen.
             Auf welche Sachen ihr bei der Reinigung achten solltet erfahrt ihr bei unseren
             <a href="/dildo-pflege-anwendung">Gebrauchs- und Sicherheitshinweisen</a>.
           </p>

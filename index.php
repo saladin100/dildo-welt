@@ -33,6 +33,7 @@
 							<h4 class="card-title h2 my-2 py-2"><i class="fas fa-angle-double-right" style="color:#ffb246"> </i> Dildo Welt <i class="fas fa-angle-double-left" style="color:#ffb246"> </i> </h4>
 							<p class="mb-4 pb-2 px-md-5 my-4 mx-md-5">Dein Ratgeber mit vielen Informationen und Tipps rund um das Thema Dildo, Vibrator & Co. </p>
 							<a href="#next" class="btn sunny-morning-gradient"> Jetzt stöbern</a>
+
 						</div>
 					</div>
 				</div>
@@ -49,7 +50,7 @@
 						<div class="col-lg-8 col-md-6">
 
 							<p>Möchtest du dir einen Dildo kaufen oder dir einfach nur Information dazu einholen?
-								Dann bist du hier genaur richtig! Wir geben dir auf unserer Website alle nötigen Informationen und Tips rund um den Dildo, Vibrator & Co. </p>
+								Dann bist du hier genaur richtig! Wir geben dir auf unserer Website alle nötigen Informationen und Tipps rund um den Dildo, Vibrator & Co. </p>
 							<p>Die Auswahl an Dildos auf dem Markt ist so groß wie die Bedürfnisse der Nutzer*innen - und damit riiieeesig! Von klassischen Silikondildos bis zu ausgefallenen Doppeldildos bleiben keine Wünsche unerfüllt. Dementsprechend schwierig ist es sich in diesem "Dildodschungel" zu Recht zu finden.
 							</p>
 
@@ -279,7 +280,7 @@
 							<div class="collapse" id="collapseExample">
 								<div class="mt-3">
 									Der älteste Fund eines Dildos wurde im Jahr 2004 in der Nähe von Ulm gemacht. Ein Dildo von 19,2cm Länge aus Siltstein,
-									der aus 14 Fragmenten wieder zusammengefügt wurde datiert in die Steinzeit und hat somit ein stolzes Alter von ~28.000 Jahren!
+									der aus 14 Fragmenten wieder zusammengefügt wurde, datiert in die Steinzeit und hat somit ein stolzes Alter von ~28.000 Jahren!
 								</div>
 							</div>
 							<!-- / Collapsible element -->
@@ -308,7 +309,7 @@
 					<h2 class="h2-responsive" id="anwendung">Die Anwendung des Dildos</h2>
 
 					<p>
-						Dildos benutzen Frauen zu Selbstbefriedigung: Dildo kaufen, ab in die Vagina und los geht der Spaß - oder?
+						Dildos benutzen Frauen zur Selbstbefriedigung: Dildo kaufen, ab in die Vagina und los geht der Spaß - oder?
 						Nicht ganz. Wer gedacht hat Dildos dienen nur für den Solo-Handbetrieb der Frauen hat sich gewaltig geirrt.
 						Schließlich gibt es außer der vaginalen Penetration auch noch ganz andere Sachen die Spaß machen und sich gut anfühlen.
 						Somit ist der Dildo natürlich auch etwas für Menschen des nicht-weiblichen Geschlechts. Außerdem lässt er sich super in das
@@ -338,7 +339,7 @@
 									<figure class="float-right">
 										<img data-src="img/dildo-anwendung.jpg" class="figure-img img-fluid z-depth-1 lazyload" alt="Dildo Anwendung" title="Dildo Anwendung">
 										<figcaption class="figure-caption">
-											Etwa die hälfte aller Frauen verheimlichen ihrem Partner, dass sie ein Sexspielzeug besitzen. </figcaption>
+											Etwa die Hälfte aller Frauen verheimlichen ihrem Partner, dass sie ein Sexspielzeug besitzen. </figcaption>
 									</figure>
 								</div>
 
@@ -399,7 +400,7 @@
 							<p>
 								Du hast dich auf unserer Seite mit Hilfe unseres <a href="/kaufen">Ratgebers</a> informiert und einen Dildo bestellt. Voller Vorfreude wartest du auf deine Bestellung und dann heißt es direkt loslegen - aber wie?
 							</p>
-							<p> Viele Produkte kommen leider nicht mit einer Gebrauchsanweisung. Und wär gedacht hat die Benutzung eines Dildos sei einfach, dem sei gesagt: Dildo und deren Benutzung sind so komplex und vielfältig wie die menschliche Sexualität selbst.
+							<p> Viele Produkte kommen leider nicht mit einer Gebrauchsanweisung. Und wer gedacht hat die Benutzung eines Dildos sei einfach, der*m sei gesagt: Dildo und deren Benutzung sind so komplex und vielfältig wie die menschliche Sexualität selbst.
 							</p>
 
 
@@ -481,7 +482,7 @@
 					</p>
 
 					<p>
-						Jene, die noch garkeine sexuelle Erfahrung entweder mit einem Partner oder anderen Sexspielzeugen haben und mit
+						Jene, die noch gar keine sexuelle Erfahrung entweder mit einem Partner oder anderen Sexspielzeugen haben und mit
 						dem Gedanken spielen einen Dildo zu kaufen, möchten wir daran erinnern, dass es auch noch die eigenen Hände gibt, um seinen Körper
 						das erste mal zu erkunden (s. Video unten). Für den Einstieg in die Sextoy Welt kann außerdem ein Vibrator ein sanfterer Einstieg
 						sein.
@@ -489,7 +490,7 @@
 
 					<p>
 						Übrigens gibt es auf <a href="https://www.omgyes.com/de/" target="_blank" reL="nofollow">www.omgyes.com</a> einen ganzen Kurs zur weiblichen Masturbation mit vielen nützlichen Tipps und Techniken.
-						Oder ihr schaut euch einfach die Tips von Susan rund um das Thema Klitoris Orgasmus an:
+						Oder ihr schaut euch einfach die Tipps von Susan rund um das Thema Klitoris Orgasmus an:
 					</p>
 
 					<div class="videoWrapper">
@@ -533,7 +534,7 @@
 
 								<figcaption class="figure-caption">
 									"Anything can be a dildo..." - bitte nicht! Dildos kommen an empfindlichen Körperteilen zum Einsatz.
-									Dementsprechend sollte man nicht wahrlos Gegenstände in seinen Körper stecken.
+									Dementsprechend sollte man nicht wahllos Gegenstände in seinen Körper stecken.
 								</figcaption>
 							</figure>
 						</div>
@@ -591,7 +592,7 @@
 								In jedem Fall sollte <strong> immer ein Kondom über den Gegenstand gezogen werden</strong>, um die Infektionsgefahr zu mindern. Und auch sonst gilt,
 								mit höchster Vorsicht vorgehen und im Zweifelsfall lieber die Finger weglassen oder mit einem Arzt Rücksprache halten.</p>
 							<p><strong>Oder noch besser:</strong> Nehmt ein paar Euro in die Hand und kauft euch einen Dildo oder Vibrator. Es gibt bessere Ansätze als die
-								eigene Gesungheit und die sexuelle Erfüllung, um Geld zu sparen.
+								eigene Gesundheit und die sexuelle Erfüllung, um Geld zu sparen.
 							</p>
 						</div>
 
@@ -627,7 +628,7 @@
 					</div>
 					<div class="row">
 						<div class="col-sm-12 col-md-12 col-lg-12">
-							<p> Der technologische Fortschritt macht natürlich auch im Bereich Sextoys kein Halt. Mittlerweile gibt es ahlreiche Vibratorenmodelle, die garnicht mehr "vibrieren". Der <a href="/auflegevibrator-druckwellenvibrator"> Womanizer Auflegevibrator</a> beispielsweise stimuliert die Klitoris durch sanfte Druckwellen - ganz ohne sie zu berühren, so dass eine Überstimulation der Klitoris ausgeschlossen ist! Nicht zuletzt deshalb schwören viele Frauen auf dieses Wundergerät und berichten von Erfahrungen und Orgasmen in ganz neuen Dimensionen. </p>
+							<p> Der technologische Fortschritt macht natürlich auch im Bereich Sextoys kein Halt. Mittlerweile gibt es zahlreiche Vibratorenmodelle, die garnicht mehr "vibrieren". Der <a href="/auflegevibrator-druckwellenvibrator"> Womanizer Auflegevibrator</a> beispielsweise stimuliert die Klitoris durch sanfte Druckwellen - ganz ohne sie zu berühren, so dass eine Überstimulation der Klitoris ausgeschlossen ist! Nicht zuletzt deshalb schwören viele Frauen auf dieses Wundergerät und berichten von Erfahrungen und Orgasmen in ganz neuen Dimensionen. </p>
 							<p>Standardmäßig haben die meisten Vibratoren verschiedene Vibrationslevel, um für jede*n das richtige Stimulationslevel zu liefern. Betrieben werden alle Vibratoren mit kleinen elektromechanischen Motoren. Standardmäßig sind diese batterie- oder akkugetrieben. Es gibt auch noch einige Modelle mit Stromkabel, aber wer möchte sich schon freiwillig seiner Flexibilität berauben einen Vibrator überall zu benutzen? </p>
 						</div>
 					</div>
@@ -712,7 +713,7 @@
 					<p> Im Gegensatz zu einem Kauf auf Amazon bieten solche Online Sexshops folgende Vorteile: </p>
 
 					<p> <b> - Gesicherte Qualität: </b> Sexshops haben in der Regel eine ausgewählte Produktpalette und verkaufen keine Toys von x-beliebigen Herstellern oder Anbietern. Auf Amazon kann prinzipiell jede*r jedes Produkt verkaufen. Somit sollte man beim Kauf auf Amazon auf den Verkäufer achten. </p>
-					<p> <b> - Kontakt, Support, Garantie: </b> Sexshops sind große Firmen, die man bei Rückfragen, Beschwerden oder sonstigen Problem im Zweifelsfall anrufen kann. Kontakt mit einem Amazon Verkäufer aufzunehmen ist da in der Regel schweiriger. Dedizierte Sexshops wie z.B. Amorelie räumen den Kunden*innen außerdem ein großzügiges Rückgaberecht für (ungebrauchte) Ware an. </p>
+					<p> <b> - Kontakt, Support, Garantie: </b> Sexshops sind große Firmen, die man bei Rückfragen, Beschwerden oder sonstigen Problem im Zweifelsfall anrufen kann. Kontakt mit einem Amazon Verkäufer aufzunehmen ist da in der Regel schwieriger. Dedizierte Sexshops wie z.B. Amorelie räumen den Kunden*innen außerdem ein großzügiges Rückgaberecht für (ungebrauchte) Ware an. </p>
 
 					<p> <b> - Diskretes Shipping: </b> Natürlich muss nicht jede*r gleich wissen, dass man sich einen neuen Dildo gekauft hat. Sexshops versenden ihre Ware möglichst diskret, so dass Postbote*in, Mitbewohner*in oder Familienmitglieder kein Wind von Kauf bekommen. </p>
 
@@ -728,9 +729,6 @@
 					<p>Wir haben euch auf unserer Seite <a href="/kaufen">Dildo Kaufen</a> übrigens einen Vergleich der bekanntesten Sextoy Shops zusammengestellt.</p>
 
 				</div>
-				
-				
-
 				<div class="col-lg-3 border-left sticky-stopper">
 					<div id="scrollspy" class="sticky">
 						<!-- Inhaltsverezichnis Start-->
@@ -800,7 +798,6 @@
 	<!--Main layout-->
 
 	<!--Footer-->
-	
 	<?php include("includes/fixed/footer.php") ?>
 	<?php include("includes/promo_banner.php") ?>
 

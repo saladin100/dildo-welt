@@ -43,7 +43,7 @@
                     </p>
 
                     <p>
-                        So hat man sich zur vaginalen Masturbation ganz bequem hinsetzen und Reitstellungen einnehmen – und hat dabei auch noch beide Hände zum spielen frei.
+                        So hat man sich zur vaginalen Masturbation ganz bequem hinsetzen und Reitstellungen einnehmen – und hat dabei auch noch beide Hände zum Spielen frei.
                     </p>
 
 
@@ -168,7 +168,7 @@
                                     <li> ideal for Solosex geeignet</li>
                                     <li> freihändiger Genuss</li>
                                     <li> eigener Lieblingsdildo oder -vibrator einsetzbar</li>
-                                    <li> Mehr Bequemlichkeit und neue Stellungen mit Partner</li>
+                                    <li> mehr Bequemlichkeit und neue Stellungen mit Partner</li>
                                     <li> kostenloser Versand und diskrete Verpackung</li>
                                 </ul>
 
@@ -210,7 +210,7 @@
                                     <li> ideal for Solosex geeignet</li>
                                     <li> Freihändiger Spaß mit dem Liebesspielzeug</li>
                                     <li> ergnomisch geformtes Kissen mit 2 Öffnunen für Sextoys</li>
-                                    <li> Mehr Bequemlichkeit und neue Stellungen mit Partner</li>
+                                    <li> mehr Bequemlichkeit und neue Stellungen mit Partner</li>
                                     <li> kostenloser Versand und diskrete Verpackung</li>
                                 </ul>
 
