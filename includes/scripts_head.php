@@ -16,7 +16,7 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="css/custom-navbar.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-   <!-- Global site tag (gtag.js) - Google Analytics-->
+   <!-- Global site tag (gtag.js) - Google Analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-99749108-8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -26,6 +26,6 @@
   gtag('config', 'UA-99749108-8', { 'anonymize_ip': true });
 </script>
 
-
+-->
 
  
