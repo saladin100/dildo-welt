@@ -53,4 +53,17 @@
 
 </body>
 
+<script>
+  window.addEventListener("load", function() {
+    setTimeout(function() {
+        document.getElementById("toggler").style.display = "block";
+        document.body.style.marginBottom = "150px"
+      }, 4500),
+      $("#toggler2, #toggler").click(function() {
+        $("#fixed-bottom-bar").removeClass("slideInUp delay-5s").addClass("slideOutDown");
+        $("body").css('margin-bottom', '0px');
+      });
+  }, false);
+</script>
+
 </html>

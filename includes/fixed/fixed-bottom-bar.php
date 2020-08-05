@@ -1,17 +1,15 @@
 <style>
+    .fixed-bottom-bar {
+        background-color: #fff;
+        color: #000;
+        height: 150px;
+        font-size: 16px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    }
+
     @media (min-width: 576px) {
         .fixed-bottom-bar {
-            background-color: #fff;
-            color: #000;
-            height: 150px;
-            padding: 2px 10px;
-            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
-            font-size: 16px;
             padding: 10px 0px;
-        }
-
-        body {
-            margin-bottom: 150px;
         }
 
         #toggler {
@@ -22,22 +20,13 @@
         }
     }
 
-/**
+
     @media (max-width: 575px) {
         .fixed-bottom-bar {
-            background-color: #fff;
-            color: #000;
-            height: 150px;
             padding: 2px 10px;
-            font-size: 16px;
-            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
         }
 
-        body {
-            margin-bottom: 165px;
-        }
-
-        #toggler {
+        #toggler2 {
             top: -15px;
             font-size: 30px;
             cursor: pointer;
@@ -45,28 +34,8 @@
             right: 10px;
         }
 
-    } */
+    }
 </style>
-
-<script >
-   
-
-    window.addEventListener("load", function() {
-        setTimeout(function() {
-                document.getElementById("toggler").style.display = "block";
-            }, 4500),
-            document.getElementById("toggler").addEventListener('click', function() {
-                document.getElementById("fixed-bottom-bar").classList.remove("slideInUp");
-                document.getElementById("fixed-bottom-bar").classList.remove("delay-5s");
-                document.body.style.margin = "0px";
-                document.getElementById("fixed-bottom-bar").classList.add("slideOutDown");
-            }, false)
-    }, false);
-
-    
-</script>
-
-
 
 <div id="fixed-bottom-bar" class="fixed-bottom fixed-bottom-bar slideInUp animated delay-5s" style="font-family: LinotteRegular, Arial, sans-serif !important;">
 
@@ -88,7 +57,7 @@
                     <i class="fas fa-star"></i>
                     5 von 5</div>
                 Bester Orgasmus-Garantie!<br>
-                <a href="http://tidd.ly/657d38a6" target="_blank" onclick="gtag('event', 'click', {'event_category': 'Promo Banner Footer','event_label':'SATISFYER'});" style="padding:0.4rem 2.14rem;margin-left:0px;" class="btn-primary waves-effect waves-light btn">
+                <a href="http://tidd.ly/657d38a6" target="_blank" onclick="gtag('event', 'click', {'event_category': 'Promo Banner Footer Desktop','event_label':'SATISFYER'});" style="padding:0.4rem 2.14rem;margin-left:0px;" class="btn-primary waves-effect waves-light btn">
                     <i class="fas fa-eye"></i> Jetzt ansehen</a>
             </div>
             <div class="col-1" id="toggler" class="slideInUp animated delay-5s">
@@ -99,7 +68,7 @@
 
 
 
-    <!--
+
     <div class="d-block d-sm-none pt-2">
 
         <div class="row justify-content-md-center">
@@ -119,13 +88,13 @@
                     5 von 5</div>
 
                 Bester Orgasmus-Garantie!<br>
-                <a href="http://tidd.ly/657d38a6" target="_blank" onclick="gtag('event', 'click', {'event_category': 'Promo Banner Footer','event_label':'SATISFYER'});" style="font-size:15px;padding:0.4rem 2.14rem;margin-left:0px;" class="btn-primary waves-effect waves-light btn">
+                <a href="http://tidd.ly/657d38a6" target="_blank" onclick="gtag('event', 'click', {'event_category': 'Promo Banner Footer Mobil','event_label':'SATISFYER'});" style="font-size:15px;padding:0.4rem 2.14rem;margin-left:0px;" class="btn-primary waves-effect waves-light btn">
                     <i class="fas fa-eye"></i> Jetzt ansehen</a>
             </div>
 
-            <div id="toggler" class="slideInUp animated delay-5s">
+            <div id="toggler2" class="slideInUp animated delay-5s">
                 <i class="fas fa-times-circle"></i>
             </div>
         </div>
-    </div>-->
+    </div>
 </div>
