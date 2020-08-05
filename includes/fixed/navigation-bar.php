@@ -246,6 +246,11 @@
                                             <i class="fas fa-caret-right pl-1 pr-3"></i>Naturvibrator
                                         </a>
                                     </li>
+                                    <li>
+                                        <a class="menu-item pl-0" href="/vibrator-ferngesteuert">
+                                            <i class="fas fa-caret-right pl-1 pr-3"></i>Vibrator ferngesteuert
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
